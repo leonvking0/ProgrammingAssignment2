@@ -1,5 +1,5 @@
 ## The following two functions create an special object
-## of a matrixand caches its inverse.
+## of a matrix and caches its inverse.
 
 ## makeCacheMatrix returns a list of functions to:
 ##      1. set the value of the matrix
